@@ -1,4 +1,4 @@
-##Visual Text Composer
+##
 
 An image captioning model, generates a coherent, contextually appropriate description that is both syntactically and semantically accurate.
 Dataset - Flickr8k - consists of 8000 images, each annotated with five different captions.
